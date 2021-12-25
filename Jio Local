@@ -1,0 +1,66 @@
+#EXTM3U    x-tvg-url="http://botallen.live/epg.xml.gz" 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/utQH7rQ.png" group-title="ଓଡ଼ିଆ", ଓ-ଟିଭି
+https://otvvid-live.pc.cdn.bitgravity.com/otv-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/utQH7rQ.png" group-title="ଓଡ଼ିଆ", OTV ʜᴅ 
+http://gg.gg/otvyt
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/utQH7rQ.png" group-title="ଓଡ଼ିଆ", OTV Jio
+http://streamhub.in1.bitmana.io/jioo.php?c=OTV_Odisha_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aumgdJJ.png" group-title="ଓଡ଼ିଆ",ତରଙ୍ଗ ଟିଭି
+https://otvvid-live.pc.cdn.bitgravity.com/tarangtv-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O4j5nVI.png" group-title="ଓଡ଼ିଆ", ପ୍ରାର୍ଥନା
+https://otvvid-live.pc.cdn.bitgravity.com/prarthana-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g3RaOpI.png" group-title="ଓଡ଼ିଆ", ତରଙ୍ଗ Music
+https://otvvid-live.pc.cdn.bitgravity.com/tarangmusic-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JxYuCY7.png" group-title="ଓଡ଼ିଆ", ଅଳଙ୍କାର
+https://otvvid-live.pc.cdn.bitgravity.com/alankar-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KUxk0yT.png" group-title="ଓଡ଼ିଆ",ସାର୍ଥକ ଟିଭି
+http://localhost:8080/jiotv-mobile/jioo.php?c=Sarthak_TV&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VYqImZa.png" group-title="ଓଡ଼ିଆ", Colors Oriya  
+http://localhost:8080/jiotv-mobile/jioo.php?c=Colors_Oriya&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhDM0oT.png" group-title="ଓଡ଼ିଆ",Manjari Tv Jio
+http://localhost:8080/jiotv-mobile/jioo.php?c=Manjari_TV&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EhMn3YZ.png" group-title="ଓଡ଼ିଆ",କଳିଙ୍ଗ ଟିଭି
+http://localhost:8080/jiotv-mobile/jioo.php?c=Kalinga_TV&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kibo71Z.png" group-title="ଓଡ଼ିଆ",Zee Odisha
+http://localhost:8080/jiotv-mobile/jioo.php?c=Zee_Kalinga&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3pQztLA.png" group-title="ଓଡ଼ିଆ",Kanak News
+http://localhost:8080/jiotv-mobile/jioo.php?c=Kanak_TV&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wdPNvUx.png" group-title="ଓଡ଼ିଆ",Argus News 
+http://localhost:8080/jiotv-mobile/jioo.php?c=Argus_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AApCvuo.png" group-title="ଓଡ଼ିଆ",Nandighosha Tv 
+http://localhost:8080/jiotv-mobile/jioo.php?c=Nandighosha&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7RAxsYc.png" group-title="ଓଡ଼ିଆ",News7
+http://localhost:8080/jiotv-mobile/jioo.php?c=Prameya_News_7&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WBsp34g.png" group-title="ଓଡ଼ିଆ",News18 ଓଡ଼ିଆ
+http://localhost:8080/jiotv-mobile/jioo.php?c=ETV_News_Oriya&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5bHPqwi.png" group-title="ଓଡ଼ିଆ",Badakhabar Jio
+http://localhost:8080/jiotv-mobile/jioo.php?c=Badakhabar&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3cBwKtA.png" group-title="ଓଡ଼ିଆ",Naxtra News 
+http://localhost:8080/jiotv-mobile/jioo.php?c=Naxatra_News&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cvi1nl.png" group-title="ଓଡ଼ିଆ",MBC Tv
+http://localhost:8080/jiotv-mobile/jioo.php?c=MBC&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8OOTEo.png" group-title="ଓଡ଼ିଆ", DD ଓଡ଼ିଆ
+http://localhost:8080/jiotv-mobile/jioo.php?c=DD_Oriya&q=1200&e=junk.m3u8
