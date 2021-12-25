@@ -27,7 +27,7 @@ http://localhost:8080/jiotv-mobile/jioo.php?c=Colors_Oriya&q=1200&e=junk.m3u8
 http://localhost:8080/jiotv-mobile/jioo.php?c=Manjari_TV&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EhMn3YZ.png" group-title="ଓଡ଼ିଆ",କଳିଙ୍ଗ ଟିଭି
-http://localhost:8080/jiotv-mobile/jioo.php?c=Kalinga_TV&q=800&e=junk.m3u8
+http://localhost:8080/jiotv-mobile/jioo.php?c=Kalinga_TV&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kibo71Z.png" group-title="ଓଡ଼ିଆ",Zee Odisha
 http://localhost:8080/jiotv-mobile/jioo.php?c=Zee_Kalinga&q=1200&e=junk.m3u8
