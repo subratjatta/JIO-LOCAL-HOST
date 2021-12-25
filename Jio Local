@@ -5,12 +5,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/utQH7rQ.png" group-title="ଓଡ଼ିଆ", ଓ-ଟିଭି
 https://otvvid-live.pc.cdn.bitgravity.com/otv-origin/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/utQH7rQ.png" group-title="ଓଡ଼ିଆ", OTV ʜᴅ 
-http://gg.gg/otvyt
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/utQH7rQ.png" group-title="ଓଡ଼ିଆ", OTV Jio
-http://streamhub.in1.bitmana.io/jioo.php?c=OTV_Odisha_TV&q=1200&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aumgdJJ.png" group-title="ଓଡ଼ିଆ",ତରଙ୍ଗ ଟିଭି
 https://otvvid-live.pc.cdn.bitgravity.com/tarangtv-origin/live/playlist.m3u8
 
