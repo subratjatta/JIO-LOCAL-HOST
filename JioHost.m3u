@@ -102,26 +102,15 @@ http://localhost:8080/jiotv-mobile/jioo.php?c=Zee_Anmol&q=1200&e=junk.m3u8
 http://localhost:8080/jiotv-mobile/jioo.php?c=Green_Chillies_TV&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZROFXZ.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳", Dillagi
-http://14.199.164.20:4001/play/a0mi/index.m3u8
+http://localhost:8080/jiotv-mobile/jioo.php?c=Dillagi_TV&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LAbtP33.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳", Dabangg TV
-http://14.199.164.20:4001/play/a0nb/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LAbtP33.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳", Dabangg TV
-https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in.m3u8
+http://localhost:8080/jiotv-mobile/jioo.php?c=Dabangg&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v876GRM.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳", Dhamaal TV
-http://14.199.164.20:4001/play/a0n9/index.m3u8
+http://localhost:8080/jiotv-mobile/jioo.php?c=Dhamaal_TV&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDl05QL.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳", Dishum Tv
-https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
+http://localhost:8080/jiotv-mobile/jioo.php?c=Dishum_TV&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wf9Kb6P.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳",Shemaroo Tv
-http://14.199.164.20:4001/play/a0nh/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wf9Kb6P.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳",Shemaroo Tv
-https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OB0jf97.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳", TV Asia Comedy
-https://streaming37.worldbbtv.com/hls/tvacomedy.m3u8
 
