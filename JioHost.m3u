@@ -93,7 +93,7 @@ http://localhost:8080/jiotv-mobile/jioo.php?c=DD_National&q=1200&e=junk.m3u8
 http://localhost:8080/jiotv-mobile/jioo.php?c=Epic_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mgp6QWI.jpg" group-title="🇮🇳EnτerτaᎥnment🇮🇳",Sony Pal
-http://localhost:8080/jiotv-mobile/jioo.php?c=Sony_Pal&q=1200&e=junk.m3u8
+http://localhost:8080/jiotv-mobile/jioo.php?c=Sony_Pal&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EeZBbZM.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳",Zee Anmol
 http://localhost:8080/jiotv-mobile/jioo.php?c=Zee_Anmol&q=1200&e=junk.m3u8
