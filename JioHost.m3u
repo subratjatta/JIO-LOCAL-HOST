@@ -23,7 +23,7 @@ http://localhost:8080/jiotv-mobile/jioo.php?c=Sarthak_TV&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VYqImZa.png" group-title="ଓଡ଼ିଆ", Colors Oriya  
 http://localhost:8080/jiotv-mobile/jioo.php?c=Colors_Oriya&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WhDM0oT.png" group-title="ଓଡ଼ିଆ",Manjari Tv Jio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhDM0oT.png" group-title="ଓଡ଼ିଆ",Manjari Tv 
 http://localhost:8080/jiotv-mobile/jioo.php?c=Manjari_TV&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EhMn3YZ.png" group-title="ଓଡ଼ିଆ",କଳିଙ୍ଗ ଟିଭି
@@ -47,7 +47,7 @@ http://localhost:8080/jiotv-mobile/jioo.php?c=Prameya_News_7&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WBsp34g.png" group-title="ଓଡ଼ିଆ",News18 ଓଡ଼ିଆ
 http://localhost:8080/jiotv-mobile/jioo.php?c=ETV_News_Oriya&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5bHPqwi.png" group-title="ଓଡ଼ିଆ",Badakhabar Jio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5bHPqwi.png" group-title="ଓଡ଼ିଆ",Badakhabar 
 http://localhost:8080/jiotv-mobile/jioo.php?c=Badakhabar&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3cBwKtA.png" group-title="ଓଡ଼ିଆ",Naxtra News 
@@ -80,7 +80,7 @@ http://localhost:8080/jiotv-mobile/jioo.php?c=Colors_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Pqrm0y.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳",Colors SD
 http://localhost:8080/jiotv-mobile/jioo.php?c=Colors_SD&q=800&e=junk.m3u8
 
-#EXTINF:-1 tvg-id="429" tvg-logo="https://i.imgur.com/5M2Piuy.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳", Colors Rishtey
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5M2Piuy.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳", Colors Rishtey
 http://localhost:8080/jiotv-mobile/jioo.php?c=Rishtey&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DcFlWuB.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳",& TV HD
@@ -155,39 +155,58 @@ http://localhost:8080/jiotv-mobile/jioo.php?c=Ten_4_HD_Telugu&q=1200&e=junk.m3u8
 http://localhost:8080/jiotv-mobile/jioo.php?c=Six_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T0e0JA3.png" group-title="⚽Sports🏏",Ten 1 
-http://localhost:8080/jiotv-mobile/jioo.php?c=Ten_1&q=1200&e=junk.m3u8
+http://localhost:8080/jiotv-mobile/jioo.php?c=Ten_1&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2SwJxm.png" group-title="⚽Sports🏏",Ten 2 
-http://localhost:8080/jiotv-mobile/jioo.php?c=Ten_2&q=1200&e=junk.m3u8
+http://localhost:8080/jiotv-mobile/jioo.php?c=Ten_2&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HYJqrV.png" group-title="⚽Sports🏏",Ten 3 
-http://localhost:8080/jiotv-mobile/jioo.php?c=Ten_3&q=1200&e=junk.m3u8
+http://localhost:8080/jiotv-mobile/jioo.php?c=Ten_3&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvyVNBg.png" group-title="⚽Sports🏏",Ten 4 Tamil
-http://localhost:8080/jiotv-mobile/jioo.php?c=Ten_4_Tamil&q=1200&e=junk.m3u8
+http://localhost:8080/jiotv-mobile/jioo.php?c=Ten_4_Tamil&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvyVNBg.png" group-title="⚽Sports🏏",Ten 4 Telugu
-http://localhost:8080/jiotv-mobile/jioo.php?c=Ten_4_Tamil&q=1200&e=junk.m3u8
+http://localhost:8080/jiotv-mobile/jioo.php?c=Ten_4_Tamil&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxd7mPT.png" group-title="⚽Sports🏏",Sony Six
-http://localhost:8080/jiotv-mobile/jioo.php?c=Sony_Six_SD&q=1200&e=junk.m3u8
+http://localhost:8080/jiotv-mobile/jioo.php?c=Sony_Six_SD&q=800&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="⚽Sports🏏",Jio Cricket English
-http://streamhub.in1.bitmana.io/jioo.php?c=Jio_Cricket&q=1200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3qP5oE3.png" group-title="⚽Sports🏏",Jio Cricket English HD
+http://localhost:8080/jiotv-mobile/jioo.php?c=Jio_Cricket&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png" group-title="⚽Sports🏏",Jio Cricket Hindi
-http://streamhub.in1.bitmana.io/jioo.php?c=Jio_Cricket_Hindi&q=1200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FAbiqay.png" group-title="⚽Sports🏏",Jio Cricket Hindi HD
+http://localhost:8080/jiotv-mobile/jioo.php?c=Jio_Cricket_Hindi&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="⚽Sports🏏",Eurosport HD
-https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/i4sdIy5.png" group-title="⚽Sports🏏",Jio Cricket 3 HD 
+http://localhost:8080/jiotv-mobile/jioo.php?c=Jio_Cricket_3&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/DD_Sports_India.png" group-title="⚽Sports🏏",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/Qgj8Kpl.png" group-title="⚽Sports🏏",Jio Sports HD 
+http://localhost:8080/jiotv-mobile/jioo.php?c=Jio_Sports&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/DD_Sports_India.png" group-title="⚽Sports🏏",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/cpOV6mF.png" group-title="⚽Sports🏏",Jio Football HD 
+http://localhost:8080/jiotv-mobile/jioo.php?c=Jio_Football&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/DD_Sports_India.png" group-title="⚽Sports🏏",DD Sports
-https://mhdtvworld.co.in/red/xx1Xx.php?id=2777&e=.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/XnKVDJe.png" group-title="⚽Sports🏏",Jio Football 1 HD 
+http://localhost:8080/jiotv-mobile/jioo.php?c=Jio_Football_1&q=1200&e=junk.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/soN7qQ7.png" group-title="⚽Sports🏏",Jio Football 2 HD 
+http://localhost:8080/jiotv-mobile/jioo.php?c=Jio_Football_2&q=1200&e=junk.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/ClgFQKo.png" group-title="⚽Sports🏏",Jio Football 3 HD 
+http://localhost:8080/jiotv-mobile/jioo.php?c=Jio_Football_3&q=1200&e=junk.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/PfhCqjt.png" group-title="⚽Sports🏏",Jio Football 4 HD 
+http://localhost:8080/jiotv-mobile/jioo.php?c=Jio_Football_4&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uq93Qeu.png" group-title="⚽Sports🏏",Eurosport HD
+http://localhost:8080/jiotv-mobile/jioo.php?c=Dsports_HD&q=1200&e=junk.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/59YLqNp.png" group-title="⚽Sports🏏",Eurosport 
+http://localhost:8080/jiotv-mobile/jioo.php?c=Dsports&q=800&e=junk.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/IDKxlWT.png" group-title="⚽Sports🏏",DD Sports 
+http://localhost:8080/jiotv-mobile/jioo.php?c=DD_Sports&q=800&e=junk.m3u8
+
 
 
