@@ -101,6 +101,9 @@ http://localhost:8080/jiotv-mobile/jioo.php?c=Zee_Anmol&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SZ5aqVQ.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳", Green Chillies
 http://localhost:8080/jiotv-mobile/jioo.php?c=Green_Chillies_TV&q=1200&e=junk.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SZ5aqVQ.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳", The Q
+http://localhost:8080/jiotv-mobile/jioo.php?c=QYOUHD&q=1200&e=junk.m3u8
+
 #EXTINF:1 tvg-logo="https://i.imgur.com/uQpSABI.png" group-title="🇮🇳EnτerτaᎥnment🇮🇳",Investigation Discovery 
 http://localhost:8080/jiotv-mobile/jioo.php?c=ID&q=1200&e=junk.m3u8
 
