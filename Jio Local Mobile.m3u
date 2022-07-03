@@ -1,0 +1,361 @@
+#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz" 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/utQH7rQ.png" group-title="ODIA", OTV
+https://otvvid-live.pc.cdn.bitgravity.com/otv-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aumgdJJ.png" group-title="ODIA",TARANGA
+https://otvvid-live.pc.cdn.bitgravity.com/tarangtv-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O4j5nVI.png" group-title="ODIA", PRARTHANA
+https://otvvid-live.pc.cdn.bitgravity.com/prarthana-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g3RaOpI.png" group-title="ODIA", TARANGA Music
+https://otvvid-live.pc.cdn.bitgravity.com/tarangmusic-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JxYuCY7.png" group-title="ODIA", ALANKARA
+https://otvvid-live.pc.cdn.bitgravity.com/alankar-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KUxk0yT.png" group-title="ODIA",SARTHAK 
+http://localhost:8080/Jioweb//live.php?c=Sarthak_TV&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jK9izK.png" group-title="ODIA",SIDHARTH TV
+http://localhost:8080/Jioweb//live.php?c=Sidharth_TV&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8aJGGMi.png" group-title="ODIA",SIDHARTH GOLD
+http://localhost:8080/Jioweb//live.php?c=Sidharth_Gold&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R38uPoo.png" group-title="ODIA",SIDHARTH BHAKTI
+http://localhost:8080/Jioweb//live.php?c=Sidharth_Bhakti&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VYqImZa.png" group-title="ODIA",COLORS ORIYA
+http://localhost:8080/Jioweb//live.php?c=Colors_Oriya&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhDM0oT.png" group-title="ODIA",MANJARI TV
+http://localhost:8080/Jioweb//live.php?c=Manjari_TV&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EhMn3YZ.png" group-title="ODIA",KALINGA TV
+http://localhost:8080/Jioweb//live.php?c=Kalinga_TV&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kibo71Z.png" group-title="ODIA",ZEE ODISHA
+https://d2dn62mzqr1orl.cloudfront.net/out/v1/c09e7bb74ea04f16a2275542244269b8/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3pQztLA.png" group-title="ODIA",KANAK NEWS
+http://localhost:8080/Jioweb//live.php?c=Kanak_TV&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wdPNvUx.png" group-title="ODIA",ARGUS NEWS
+http://localhost:8080/Jioweb//live.php?c=Argus_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AApCvuo.png" group-title="ODIA",NANDIGHOSHA TV 
+http://localhost:8080/Jioweb//live.php?c=Nandighosha&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7RAxsYc.png" group-title="ODIA",NEWS 7
+http://localhost:8080/Jioweb//live.php?c=Prameya_News_7&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WBsp34g.png" group-title="ODIA",NEWS18 ODIA
+http://localhost:8080/Jioweb//live.php?c=ETV_News_Oriya&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5bHPqwi.png" group-title="ODIA",BADAKHABAR
+http://localhost:8080/Jioweb//live.php?c=Badakhabar&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3cBwKtA.png" group-title="ODIA",Naxtra News 
+http://localhost:8080/Jioweb//live.php?c=Naxatra_News&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cvi1nl.png" group-title="ODIA",MBC TV
+http://localhost:8080/Jioweb//live.php?c=MBC&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8OOTEo.png" group-title="ODIA", DD ODIA
+http://localhost:8080/Jioweb//live.php?c=DD_Oriya&q=1200&e=junk.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kZB2StN.png" group-title="ENTERTAINMENT",Sony HD
+http://localhost:8080/Jioweb//live.php?c=Sony_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zMES4UE.png" group-title="ENTERTAINMENT",SONY SAB HD
+http://localhost:8080/Jioweb//live.php?c=Sony_SAB_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HrgFPCR.png" group-title="ENTERTAINMENT",SONY SAB 
+http://localhost:8080/Jioweb//live.php?c=Sony_SAB&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSfbbqp.png" group-title="ENTERTAINMENT",Zee TV HD
+http://localhost:8080/Jioweb//live.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
+   
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1xLfpZd.png" group-title="ENTERTAINMENT",Colors HD
+http://localhost:8080/Jioweb//live.php?c=Colors_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Pqrm0y.png" group-title="ENTERTAINMENT",Colors SD
+http://localhost:8080/Jioweb//live.php?c=Colors_SD&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5M2Piuy.png" group-title="ENTERTAINMENT", Colors Rishtey
+http://localhost:8080/Jioweb//live.php?c=Rishtey&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DcFlWuB.png" group-title="ENTERTAINMENT",& TV HD
+http://localhost:8080/Jioweb//live.php?c=And_TV_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s2XaMYf.png" group-title="ENTERTAINMENT",DD National
+http://localhost:8080/Jioweb//live.php?c=DD_National&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpVO9iD.png" group-title="ENTERTAINMENT",Epic
+http://localhost:8080/Jioweb//live.php?c=Epic_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GV1QFCu.png" group-title="ENTERTAINMENT",Sony Pal
+http://localhost:8080/Jioweb//live.php?c=Sony_Pal&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeZBbZM.png" group-title="ENTERTAINMENT",Zee Anmol
+http://localhost:8080/Jioweb//live.php?c=Zee_Anmol&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SZ5aqVQ.png" group-title="ENTERTAINMENT", Green Chillies
+http://localhost:8080/Jioweb//live.php?c=Green_Chillies_TV&q=1200&e=junk.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/uQpSABI.png" group-title="ENTERTAINMENT",Investigation Discovery 
+http://localhost:8080/Jioweb//live.php?c=ID&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZROFXZ.png" group-title="ENTERTAINMENT", Dillagi
+http://localhost:8080/Jioweb//live.php?c=Dillagi_TV&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LAbtP33.png" group-title="ENTERTAINMENT", Dabangg TV
+http://localhost:8080/Jioweb//live.php?c=Dabangg&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v876GRM.png" group-title="ENTERTAINMENT", Dhamaal TV
+http://localhost:8080/Jioweb//live.php?c=Dhamaal_TV&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDl05QL.png" group-title="ENTERTAINMENT", Dishum Tv
+http://localhost:8080/Jioweb//live.php?c=Dishum_TV&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13dwS8C.png" group-title="ENTERTAINMENT", The Q India
+http://localhost:8080/Jioweb//live.php?c=TheQIndia&q=1200&e=junk.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JyU2OGy.png" group-title="HINDI MOVIES",Sony Max ᴴᴰ
+http://localhost:8080/Jioweb//live.php?c=Sony_Max_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iwtek08.png" group-title="HINDI MOVIES",Sony Max SD
+http://localhost:8080/Jioweb//live.php?c=Sony_Max_SD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCObbNW.png" group-title="HINDI MOVIES",Sony Max2 
+http://localhost:8080/Jioweb//live.php?c=Sony_MAX2&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qdoBfRU.png" group-title="HINDI MOVIES",Zee Cinema ᴴᴰ
+http://localhost:8080/Jioweb//live.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YgAAL8.png" group-title="HINDI MOVIES",Zee Cinema SD
+http://localhost:8080/Jioweb//live.php?c=Zee_Cinema&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yMd9QDk.png" group-title="HINDI MOVIES",& Pictures ᴴᴰ
+http://localhost:8080/Jioweb//live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t5ODS7w.png" group-title="HINDI MOVIES",Sony Wah
+http://localhost:8080/Jioweb//live.php?c=Sony_Wah&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9yatWDk.png" group-title="HINDI MOVIES",Zee Bollywood
+http://localhost:8080/Jioweb//live.php?c=Zee_Classic&q=1200&e=junk.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NgadFQ3.png" group-title="HINDI MOVIES",Manoranjan Movies
+http://localhost:8080/Jioweb//live.php?c=Manoranjan_Movies&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bzhz7B8.png" group-title="HINDI MOVIES",Zee Anmol Cinema
+http://localhost:8080/Jioweb//live.php?c=Zee_Anmol&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYojaR9.png" group-title="HINDI MOVIES",Manoranjan TV
+http://localhost:8080/Jioweb//live.php?c=Manoranjan_TV&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrrWfcf.png" group-title="HINDI MOVIES",Zee Action
+http://localhost:8080/Jioweb//live.php?c=Zee_Action&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wLsGG58.png" group-title="HINDI MOVIES",Rishtey Cineplex 
+http://localhost:8080/Jioweb//live.php?c=Rishtey_Cineplex&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GA1Urwy.png" group-title="HINDI MOVIES",Colors Cineplex ᴴᴰ
+http://localhost:8080/Jioweb//live.php?c=Colors_Cineplex_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GA1Urwy.png" group-title="HINDI MOVIES",Colors Cineplex 
+http://localhost:8080/Jioweb//live.php?c=Colors_Cineplex&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/daEqFc8.png" group-title="HINDI MOVIES",Colors Cineplex Bollywood
+http://localhost:8080/Jioweb//live.php?c=Colors_Cineplex_Bollywood&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6EQeM8H.png" group-title="HINDI MOVIES",B4U Movies
+http://localhost:8080/Jioweb//live.php?c=B4U_Movies&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CVk2I6.png" group-title="HINDI MOVIES",B4U Kadak
+http://localhost:8080/Jioweb//live.php?c=B4U_Kadak&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kz7xxWc.png" group-title="HINDI MOVIES", Surya Cinema
+http://localhost:8080/Jioweb//live.php?c=Surya_Cinema&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gC03YWU.png" group-title="HINDI MOVIES",Enter10 Movies
+http://localhost:8080/Jioweb//live.php?c=Enterr_10&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hWskCEz.png" group-title="HINDI MOVIES",Box Cinema
+http://localhost:8080/Jioweb//live.php?c=Box_Cinema&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/otcbIZq.png" group-title="HINDI MOVIES",Bflix Movies
+http://localhost:8080/Jioweb//live.php?c=Bflix_Movies&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rvu1Tks.png" group-title="HINDI MOVIES",Maha Movies
+http://localhost:8080/Jioweb//live.php?c=Maha_Movies&q=1200&e=junk.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wJ8Ac6j.png" group-title="Entertainment English",Comedy Central HD
+http://localhost:8080/Jioweb//live.php?c=Comedy_Central_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jE7OI97.png" group-title="Entertainment English",Colors Infinity HD
+http://localhost:8080/Jioweb//live.php?c=Colors_Infinity_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vi6rUnc.png" group-title="Entertainment English",Colors Infinity 
+http://localhost:8080/Jioweb//live.php?c=Colors_Infinity_SD&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yhVGtfQ.png" group-title="Entertainment English", Arré HD
+http://localhost:8080/Jioweb//live.php?c=Arre&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MqIoJWn.png" group-title="Entertainment English", Hi Dost!
+http://localhost:8080/Jioweb//live.php?c=Hi_Dost&q=800&e=junk.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcyRFD6.png" group-title="SƤORTS | CRICKEŦ",Ten 1 HD 
+http://localhost:8080/Jioweb//live.php?c=Ten_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UeukqJy.png" group-title="SƤORTS | CRICKEŦ",Ten 2 HD
+http://localhost:8080/Jioweb//live.php?c=Ten2_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2SqdXQl.png" group-title="SƤORTS | CRICKEŦ",Ten 3 HD
+http://localhost:8080/Jioweb//live.php?c=Ten3_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwLMvxqK/Ten-4-HD.png" group-title="SƤORTS | CRICKEŦ",Ten 4 HD Tamil
+http://localhost:8080/Jioweb//live.php?c=Ten_4_HD_Tamil&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwLMvxqK/Ten-4-HD.png" group-title="SƤORTS | CRICKEŦ",Ten 4 HD Telugu
+http://localhost:8080/Jioweb//live.php?c=Ten_4_HD_Telugu&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xlNLMXe.png" group-title="SƤORTS | CRICKEŦ",Sony Six HD
+http://localhost:8080/Jioweb//live.php?c=Six_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T0e0JA3.png" group-title="SƤORTS | CRICKEŦ",Ten 1 
+http://localhost:8080/Jioweb//live.php?c=Ten_1&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2SwJxm.png" group-title="SƤORTS | CRICKEŦ",Ten 2 
+http://localhost:8080/Jioweb//live.php?c=Ten_2&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7HYJqrV.png" group-title="SƤORTS | CRICKEŦ",Ten 3 
+http://localhost:8080/Jioweb//live.php?c=Ten_3&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLjm5gHC/Ten-4.png" group-title="SƤORTS | CRICKEŦ",Ten 4 Tamil
+http://localhost:8080/Jioweb//live.php?c=Ten_4_Tamil&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLjm5gHC/Ten-4.png" group-title="SƤORTS | CRICKEŦ",Ten 4 Telugu
+http://localhost:8080/Jioweb//live.php?c=Ten_4_Tamil&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxd7mPT.png" group-title="SƤORTS | CRICKEŦ",Sony Six
+http://localhost:8080/Jioweb//live.php?c=Sony_Six_SD&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uq93Qeu.png" group-title="SƤORTS | CRICKEŦ",Eurosport HD
+http://localhost:8080/Jioweb//live.php?c=Dsports_HD&q=1200&e=junk.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/59YLqNp.png" group-title="SƤORTS | CRICKEŦ",Eurosport 
+http://localhost:8080/Jioweb//live.php?c=Dsports&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/twIJDbj.png" group-title="SƤORTS | CRICKEŦ",Sports18 1 HD
+http://192.168.29.49:80/live.php?c=Sports18_1_HD&q=1200&e=.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj0LkSh.png" group-title="SƤORTS | CRICKEŦ",Sports18 1 
+http://192.168.29.49:80/live.php?c=Sports18_1_SD&q=1200&e=.m3u8 
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/IDKxlWT.png" group-title="SƤORTS | CRICKEŦ",DD Sports 
+http://localhost:8080/Jioweb//live.php?c=DD_Sports&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hmq42tJ.png" group-title="SƤORTS | CRICKEŦ", 1 Sports
+http://localhost:8080/Jioweb//live.php?c=1Sports&q=1200
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3qP5oE3.png" group-title="SƤORTS | CRICKEŦ",Jio Cricket English HD
+http://localhost:8080/Jioweb//live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FAbiqay.png" group-title="SƤORTS | CRICKEŦ",Jio Cricket Hindi HD
+http://localhost:8080/Jioweb//live.php?c=Jio_Cricket_Hindi&q=1200&e=junk.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/i4sdIy5.png" group-title="SƤORTS | CRICKEŦ",Jio Cricket 3 HD 
+http://localhost:8080/Jioweb//live.php?c=Jio_Cricket_3&q=1200&e=junk.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/Qgj8Kpl.png" group-title="SƤORTS | CRICKEŦ",Jio Sports HD 
+http://localhost:8080/Jioweb//live.php?c=Jio_Sports&q=1200&e=junk.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/cpOV6mF.png" group-title="SƤORTS | CRICKEŦ",Jio Football HD 
+http://localhost:8080/Jioweb//live.php?c=Jio_Football&q=1200&e=junk.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/XnKVDJe.png" group-title="SƤORTS | CRICKEŦ",Jio Football 1 HD 
+http://localhost:8080/Jioweb//live.php?c=Jio_Football_1&q=1200&e=junk.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/soN7qQ7.png" group-title="SƤORTS | CRICKEŦ",Jio Football 2 HD 
+http://localhost:8080/Jioweb//live.php?c=Jio_Football_2&q=1200&e=junk.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/ClgFQKo.png" group-title="SƤORTS | CRICKEŦ",Jio Football 3 HD 
+http://localhost:8080/Jioweb//live.php?c=Jio_Football_3&q=1200&e=junk.m3u8
+
+#EXTINF:1 tvg-logo="https://i.imgur.com/PfhCqjt.png" group-title="SƤORTS | CRICKEŦ",Jio Football 4 HD 
+http://localhost:8080/Jioweb//live.php?c=Jio_Football_4&q=1200&e=junk.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VdM7RV6.png" group-title="Infotainment",Animal Planet HD World
+http://localhost:8080/Jioweb//live.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6mazGl3.png" group-title="Infotainment",Animal Planet Hindi
+http://localhost:8080/Jioweb//live.php?c=Animal_Planet_Hindi&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PBg5bR6.png" group-title="Infotainment",Discovery HD World
+http://localhost:8080/Jioweb//live.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uwpaY7y.png" group-title="Infotainment",Discovery Channel Hindi
+http://localhost:8080/Jioweb//live.php?c=Discovery_Channel_Hindi&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W6i48gx.png" group-title="Infotainment",Discovery Science
+http://localhost:8080/Jioweb//live.php?c=Discovery_Science&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LIcIXhB.png" group-title="Infotainment",Sony BBC Earth HD
+http://localhost:8080/Jioweb//live.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dnm3v50.png" group-title="Infotainment",Sony BBC Earth SD
+http://localhost:8080/Jioweb//live.php?c=Sony_BBC_Earth_SD&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7E75WlK.png" group-title="Infotainment", Discovery Turbo
+http://localhost:8080/Jioweb//live.php?c=Discovery_Turbo&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/80kWstH.png" group-title="Infotainment", History TV18 HD Hindi
+http://localhost:8080/Jioweb//live.php?c=History_18_Hindi&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/80kWstH.png" group-title="Infotainment", History Tv18 HD
+http://localhost:8080/Jioweb//live.php?c=History_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jSnKCfO.png" group-title="Infotainment", History Tv18 SD
+http://localhost:8080/Jioweb//live.php?c=History_TV18_SD&q=1200&e=junk.m3u8
+
+
+
+
+
